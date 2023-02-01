@@ -5,3 +5,5 @@ b) Roles & Responsibilities Scrum Master: Leads the Agile based Dev Team, monito
    Roles & Responsibilities Product Owner: Create and maintain the backlog, Evaluate progress and communicate to other departments
 
 c) Sprint planning meeting, daily scrum/standup meeting, and sprint retrospective meeting. The sprint planning meeting consists of determining what to complete in the coming sprint and to develop the story points. The standup meeting is a short meeting that discusses the work completed and plan for the day
+
+d) Epic is the main task that gets broken down into smaller ideas which are called stories. A task is a technical task that any member could individually do. A bug indicates that there is a problem with the software that is leading to issues and needs to be addressed.
