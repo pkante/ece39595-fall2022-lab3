@@ -1,2 +1,4 @@
 a) Pros of Agile: Deliverables, Action before documentation, and immediate feedback
    Cons of Agile: lack of documentation, time consuming, and unpredictable
+b) Roles & Responsibilities Scrum Master: Leads the Agile based Dev Team, monitor the progress of the sprint tasks and remove roadblocks, and to report the success of the sprints
+   Roles & Responsibilities Product Owner: Create and maintain the backlog, Evaluate progress and communicate to other departments
