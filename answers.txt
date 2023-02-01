@@ -1,1 +1,2 @@
- fgbfgfgfgf
+a) Pros of Agile: Deliverables, Action before documentation, and immediate feedback
+   Cons of Agile: lack of documentation, time consuming, and unpredictable
